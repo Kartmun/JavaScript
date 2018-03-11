@@ -5,7 +5,7 @@ var app = express();
 
 //Это сейчас на ГитХабе =)
 //Это снова я 
-// original
+// original pidor
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
